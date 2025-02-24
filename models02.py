@@ -44,3 +44,4 @@ if __name__ == '__main__':
     task_manager.show_tasks()  # все что осталось сделать
 
     print(f"{task_manager}\nСПАСИБО ЗА ВНИМАНИЕ К МОЕМУ ТВОРЕНИЮ:)")
+
